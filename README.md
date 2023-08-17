@@ -40,5 +40,5 @@ I'm learning unity to be a game programmer.
 
 <!--스탯-->
 
-![Postive's GitHub stats](https://github-readme-stats.vercel.app/api?username=postive12&show_icons=true&theme=tokyonight)
+![Postive's GitHub stats](https://github-readme-stats.vercel.app/api?username=postive12&show_icons=true&theme=tokyonight&count_private=true)
 </div>
